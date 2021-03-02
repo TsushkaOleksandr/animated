@@ -1,2 +1,3 @@
 próba dodania pliku
 zmieniamy drugi plik do powtórki
+dostarczenie zmian nowej wersji
