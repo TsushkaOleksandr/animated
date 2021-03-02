@@ -3,3 +3,4 @@
 "to":"Mentor",
 "body":"Do not hit students!!"
 }
+zmieniam plik 1 dla próby wyslania go na Git próba 2
